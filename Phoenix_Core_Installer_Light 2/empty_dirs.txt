@@ -1,2 +1,0 @@
-./Phoenix_Core
-./phoenix_env/include/python3.13
